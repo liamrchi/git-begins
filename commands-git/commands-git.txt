@@ -1,0 +1,10 @@
+les commandes qui permettent de :
+
+cloner un repository :
+- git clone "https://github.com/mon-pseudo/git-begins.git
+
+push :
+git add .
+git commit -m "Mon premier commit"
+git push
+
